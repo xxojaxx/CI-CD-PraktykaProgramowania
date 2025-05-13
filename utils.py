@@ -1,4 +1,3 @@
-
 """
 This module contains the utility functions for the calculator app.
 """
@@ -29,4 +28,3 @@ def divide(a: int, b: int) -> float:
     This function divides two numbers and returns the result.
     """
     return a / b
-
